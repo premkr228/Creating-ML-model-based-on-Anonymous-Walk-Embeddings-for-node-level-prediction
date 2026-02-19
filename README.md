@@ -1,0 +1,2 @@
+# Creating-ML-model-based-on-Anonymous-Walk-Embeddings-for-node-level-prediction
+Built a graph classification model using Anonymous Walk Embeddings on the OGB-MolHIV dataset. Converted molecular graphs into structural frequency vectors via random anonymous walks and trained a feedforward neural network with class imbalance handling. Evaluated using ROC-AUC and Precision–Recall metrics for robust performance analysis.
